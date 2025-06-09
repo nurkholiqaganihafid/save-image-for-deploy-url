@@ -8,3 +8,6 @@
 
 ## 📊 Customer Churn Analysis – Databel Telecom
 ![image](https://github.com/user-attachments/assets/09c60d5a-14ef-4a44-ae2d-ace5742445b4)
+
+## 📊 Dummy Project
+![image](https://github.com/user-attachments/assets/11164aab-6d73-414d-b306-f6c13dcad830)
